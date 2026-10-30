@@ -4,6 +4,7 @@
 
 ## What the app does
 
+
 CurbSense Lite provides two ways to analyse a parking area:
 
 - **Image analysis:** Upload a JPG, JPEG, PNG, or WEBP image to detect and classify visible parking bays. The app displays the annotated result alongside parking statistics and detection details.
@@ -63,3 +64,6 @@ The application analyses uploaded media only. It does not connect to live CCTV f
 ## Credits
 
 The project uses the PKLot parking-lot dataset referenced in the original project and the Ultralytics YOLOv8 framework. Dataset attribution and licensing should be retained with the project materials.
+
+
+Link: https://idai201-2505788-nikhilraimalani.streamlit.app/
